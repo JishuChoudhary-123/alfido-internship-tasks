@@ -29,12 +29,6 @@ A basic to-do list app that allows users to add and remove tasks dynamically.
 
 ---
 
-## 🔗 Live Demos (if any)
-
-> You can add GitHub Pages links here for tasks if you enable Pages for each task folder manually.
-
----
-
 ## 📁 Folder Structure
 alfido-internship-tasks/
 ├── Task-1/
